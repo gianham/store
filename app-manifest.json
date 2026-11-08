@@ -194,17 +194,6 @@
       "downloadKey": "rapphim-apk"
     },
     {
-      "name": "Netflix",
-      "version": "8.121.2 build 22 50727",
-      "versionCode": 50727,
-      "description": "Netflix bản yêu cầu sử dụng chuột",
-      "category": "Xem Phim",
-      "packageName": "com.netflix.mediaclient",
-      "icon": "https://ximaotv.github.io/app/icons/app-netflix.png",
-      "apk": "https://ximaotv.github.io/app/netflix.apk",
-      "downloadKey": "netflix-apk"
-    },
-    {
       "name": "Imou Camera",
       "version": "",
       "versionCode": 6,
@@ -249,28 +238,6 @@
       "downloadKey": "hik-apk"
     },
     {
-      "name": "VXM Store",
-      "version": "1.4.0",
-      "versionCode": 5,
-      "description": "Kho ứng dụng dành cho Android TV",
-      "category": "Ứng Dụng Khác",
-      "packageName": "com.vxm.store",
-      "icon": "https://ximaotv.github.io/app/icons/app-vxm.png",
-      "apk": "https://ximaotv.github.io/app/vxmstore.apk",
-      "downloadKey": "vxmstore-apk"
-    },
-    {
-      "name": "VXM Manager",
-      "version": "1.2.1",
-      "versionCode": 5,
-      "description": "Trình quản lý ứng dụng dành cho Android TV",
-      "category": "Ứng Dụng Khác",
-      "packageName": "com.vxm.manager",
-      "icon": "https://ximaotv.github.io/app/icons/app-manager.png",
-      "apk": "https://ximaotv.github.io/app/manager.apk",
-      "downloadKey": "manager-apk"
-    },
-    {
       "name": "Projectivy Launcher",
       "version": "4.71",
       "versionCode": 95,
@@ -280,61 +247,6 @@
       "icon": "https://ximaotv.github.io/app/icons/app-project.png",
       "apk": "https://ximaotv.github.io/app/project.apk",
       "downloadKey": "project-apk"
-    },
-    {
-      "name": "Cài đặt Android 11",
-      "version": "1.0",
-      "versionCode": 1,
-      "description": "Cài đặt hệ thống cho Android 11",
-      "category": "Ứng Dụng Khác",
-      "packageName": "com.android.tv.settings",
-      "icon": "https://ximaotv.github.io/app/icons/app-settings.png",
-      "apk": "https://ximaotv.github.io/app/settings.apk",
-      "downloadKey": "settings-apk"
-    },
-    {
-      "name": "Permission Manager by VXM",
-      "version": "1.2",
-      "versionCode": 3,
-      "description": "Ứng dụng Quản lý quyền nâng cao cho AndroidTV",
-      "category": "Ứng Dụng Khác",
-      "packageName": "com.vxm.permission",
-      "icon": "https://ximaotv.github.io/app/icons/app-permission.png",
-      "apk": "https://ximaotv.github.io/app/permission.apk",
-      "downloadKey": "permission-apk"
-    },
-    {
-      "name": "MiX Silver",
-      "version": "",
-      "versionCode": 24112410,
-      "description": "Ứng dụng quản lý file cho Android TV",
-      "category": "Ứng Dụng Khác",
-      "packageName": "com.mixplorer.silver",
-      "icon": "https://ximaotv.github.io/app/icons/app-mix.png",
-      "apk": "https://ximaotv.github.io/app/mix.apk",
-      "downloadKey": "mix-apk"
-    },
-    {
-      "name": "MStore2",
-      "version": "",
-      "versionCode": 2,
-      "description": "Kho ứng dụng dành cho Android TV",
-      "category": "Ứng Dụng Khác",
-      "packageName": "tungbui.mstore",
-      "icon": "https://ximaotv.github.io/app/icons/app-mstore2.png",
-      "apk": "https://ximaotv.github.io/app/mstore.apk",
-      "downloadKey": "mstore-apk"
-    },
-    {
-      "name": "Ferrari Downloader",
-      "version": "",
-      "versionCode": 62,
-      "description": "Ứng dụng trình duyệt và tải file siêu nhanh.",
-      "category": "Ứng Dụng Khác",
-      "packageName": "com.esaba.FerrariDownloaderFerrari",
-      "icon": "https://ximaotv.github.io/app/icons/app-ferrari.png",
-      "apk": "https://ximaotv.github.io/app/ferrari.apk",
-      "downloadKey": "ferrari-apk"
     },
     {
       "name": "Trình duyệt TV Bro",
@@ -358,16 +270,5 @@
       "apk": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/coccoc.apk",
       "downloadKey": "coccoc-apk"
     },
-    {
-      "name": "VXM ADB Terminal",
-      "version": "1.0",
-      "versionCode": 4,
-      "description": "Công cụ ADB terminal dành cho TV",
-      "category": "Ứng Dụng Khác",
-      "packageName": "com.vxm.adb",
-      "icon": "https://ximaotv.github.io/app/icons/app-adb.png",
-      "apk": "https://ximaotv.github.io/app/adb.apk",
-      "downloadKey": "adb-apk"
-    }
   ]
 }
