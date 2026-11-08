@@ -194,15 +194,15 @@
       "downloadKey": "getout-apk"
     },
     {
-      "name": "Ximao Film",
-      "version": "1.0.1",
+      "name": "TVplus",
+      "version": "1.1.5",
       "versionCode": 10,
-      "description": "Ứng dụng xem phim trên Android TV",
-      "category": "Xem Phim",
-      "packageName": "com.vxm.movies",
-      "icon": "https://ximaotv.github.io/app/icons/app-ximaofilm.png",
-      "apk": "https://ximaotv.github.io/app/ximaofilm.apk",
-      "downloadKey": "ximaofilm-apk"
+      "description": "Ứng dụng xem TV trên Android TV",
+      "category": "Truyền Hình",
+      "packageName": "com.apptv.tvplus",
+      "icon": "https://btn.io.vn/apk/img/tvplus2.png",
+      "apk": "http://btn.myftp.org:8000/dl/9448131d-8675-4f45-9be8-0faed9c701bc_4941ff04097e9a8d4537a6b1cb2c310b",
+      "downloadKey": "TVPlus-1.1.5-redirect.apk"
     },
     {
       "name": "Phim4K",
