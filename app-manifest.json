@@ -19,13 +19,13 @@
     },
     {
       "name": "Tizen Tube",
-      "version": "1.0.8",
+      "version": "V2.0.3",
       "versionCode": 108,
       "description": "Ứng dụng xem YouTube dành cho Google TV",
       "category": "YouTube",
       "packageName": "io.gh.reisxd.tizentube.cobalt",
-      "icon": "https://ximaotv.github.io/app/https://ximaotv.github.io/app/icons/app-googletv-ytb.png",
-      "apk": "https://ximaotv.github.io/app/ytb2.apk",
+      "icon": "https://tizentube.app/tizentube-logo.svg",
+      "apk": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.3/cobalt-arm.apk",
       "downloadKey": "ytb2-apk"
     },
     {
