@@ -156,7 +156,7 @@
       "description": "Ứng dụng xem phim trên TV",
       "category": "Xem Phim",
       "packageName": "com.chop.tv",
-      "icon": "https://raw.githubusercontent.com/rapnha/rapnha.github.io/refs/heads/main/favicon.svg",
+      "icon": "rap-nha.jpg",
       "apk": "https://github.com/SmallAll/rap-nha-tv-releases/releases/download/v1.5.2/RapNha-1.5.2.apk",
       "downloadKey": "rapnha-apk"
     },
