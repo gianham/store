@@ -263,11 +263,11 @@
       "name": "Launch On Boot",
       "version": "4.71",
       "versionCode": 95,
-      "description": "Gán phím",
+      "description": "Gán khổi động ứng dụng tivi, thích hợp cho người lớn tuồi",
       "category": "Ứng Dụng Khác",
       "packageName": "com.spocky.projengmenu",
       "icon": "https://image.winudf.com/v2/image1/ZGV2LnZvZGlrNy50dnF1aWNrYWN0aW9ucy5mcmVlX2ljb25fMTY5Nzc4NjA0NF8wODk/icon.png?w=140&fakeurl=1",
-      "apk": "http://btn.myftp.org:8000/dl/cf9356b7-650d-4b85-a378-d92681ce8d31_47ea581c4b0e57bb05f3512feda954b2",
+      "apk": "Launch-On-Boot.v1.4.7.apk",
       "downloadKey": "QuickActionsPro-apk"
     },
     {
