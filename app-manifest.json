@@ -46,8 +46,8 @@
       "description": "Ứng dụng truyền hình dành cho TV",
       "category": "Truyền Hình",
       "packageName": "com.apptv.tvplus",
-      "icon": "https://btn.io.vn/apk/img/tvplus2.png",
-      "apk": "https://raw.githubusercontent.com/gianham/store/refs/heads/main/app/TVPlus-1.1.5-redirect.apk",
+      "icon": "tvplus2.png",
+      "apk": "TVPlus-1.1.5-redirect.apk",
       "downloadKey": "TVPlus-apk"
     },
     {
