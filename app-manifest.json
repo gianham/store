@@ -40,6 +40,17 @@
       "downloadKey": "smarttube-apk"
     },
     {
+      "name": "TVPlus",
+      "version": "1.1.5",
+      "versionCode": 10,
+      "description": "Ứng dụng truyền hình dành cho TV",
+      "category": "Truyền Hình",
+      "packageName": "com.apptv.tvplus",
+      "icon": "https://btn.io.vn/apk/img/tvplus2.png",
+      "apk": "https://github.com/gianham/store/blob/main/app/TVPlus-1.1.5-redirect.apk",
+      "downloadKey": "TVPlus-apk"
+    },
+    {
       "name": "FPT Play",
       "version": "7.34.13",
       "versionCode": 4394,
@@ -95,17 +106,6 @@
       "downloadKey": "mytv-apk"
     },
     {
-      "name": "QuanTV",
-      "version": "250921",
-      "versionCode": 250921,
-      "description": "Ứng dụng truyền hình dành cho TV",
-      "category": "Truyền Hình",
-      "packageName": "vn.quan.quantv",
-      "icon": "https://ximaotv.github.io/app/icons/app-quantv.png",
-      "apk": "https://ximaotv.github.io/app/quantv.apk",
-      "downloadKey": "quantv-apk"
-    },
-    {
       "name": "VietPlayTV",
       "version": "2.4",
       "versionCode": 24,
@@ -113,7 +113,7 @@
       "category": "Truyền Hình",
       "packageName": "com.nghenhin24h.vietplaytv",
       "icon": "https://ximaotv.github.io/app/icons/app-vietplaytv.png",
-      "apk": "https://ximaotv.github.io/app/vietplaytv.apk",
+      "apk": "https://dvtshophcm.com/appstore/VietPlay_KTV.apk",
       "downloadKey": "vietplaytv-apk"
     },
     {
@@ -137,17 +137,6 @@
       "icon": "https://ximaotv.github.io/app/icons/app-get-out.png",
       "apk": "https://ximaotv.github.io/app/getout.apk",
       "downloadKey": "getout-apk"
-    },
-    {
-      "name": "TVPlus",
-      "version": "1.1.5",
-      "versionCode": 10,
-      "description": "Ứng dụng truyền hình dành cho TV",
-      "category": "Truyền Hình",
-      "packageName": "com.apptv.tvplus",
-      "icon": "https://btn.io.vn/apk/img/tvplus2.png",
-      "apk": "https://dvtshophcm.com/appstore/TVPlus.apk",
-      "downloadKey": "TVPlus-apk"
     },
     {
       "name": "Phim4K",
