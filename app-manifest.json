@@ -150,6 +150,17 @@
       "downloadKey": "phim4k-apk"
     },
     {
+      "name": "Rạp Nhà",
+      "version": "1.5.2",
+      "versionCode": 13100,
+      "description": "Ứng dụng xem phim trên TV",
+      "category": "Xem Phim",
+      "packageName": "com.chop.tv",
+      "icon": "https://raw.githubusercontent.com/rapnha/rapnha.github.io/refs/heads/main/favicon.svg",
+      "apk": "https://github.com/SmallAll/rap-nha-tv-releases/releases/download/v1.5.2/RapNha-1.5.2.apk",
+      "downloadKey": "rapnha-apk"
+    },
+    {
       "name": "Chợ Phim",
       "version": "1.1.0",
       "versionCode": 10100,
