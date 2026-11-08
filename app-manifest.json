@@ -13,7 +13,7 @@
       "description": "YouTube không QC",
       "category": "YouTube",
       "packageName": "com.google.android.youtube.tv",
-      "icon": "https://ximaotv.github.io/app/https://ximaotv.github.io/app/icons/app-ytb.png",
+      "icon": "https://btn.io.vn/apk/img/app-googletv-ytb.png",
       "apk": "https://dvtshophcm.com/appstore/YouTubeFinal_KhuyenDung.apk",
       "downloadKey": "ytb-apk"
     },
@@ -24,7 +24,7 @@
       "description": "Ứng dụng xem YouTube dành cho Google TV",
       "category": "YouTube",
       "packageName": "io.gh.reisxd.tizentube.cobalt",
-      "icon": "https://tizentube.app/tizentube-logo.svg",
+      "icon": "https://btn.io.vn/apk/img/TizenTube.png",
       "apk": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.3/cobalt-arm.apk",
       "downloadKey": "ytb2-apk"
     },
