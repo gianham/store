@@ -29,28 +29,6 @@
       "downloadKey": "ytb2-apk"
     },
     {
-      "name": "VXM Karaoke",
-      "version": "1.2.1",
-      "versionCode": 107,
-      "description": "Ứng dụng hát Karaoke miễn phí",
-      "category": "YouTube",
-      "packageName": "com.vxm.karaoke",
-      "icon": "https://ximaotv.github.io/app/https://ximaotv.github.io/app/icons/app-karaoke.png",
-      "apk": "https://ximaotv.github.io/app/karaoke.apk",
-      "downloadKey": "karaoke-apk"
-    },
-    {
-      "name": "YouTube Fix RAM Yếu ",
-      "version": "1.0.8",
-      "versionCode": 108,
-      "description": "YouTube dành cho máy RAM 1GB",
-      "category": "YouTube",
-      "packageName": "com.google.android.youtube.tv",
-      "icon": "https://ximaotv.github.io/app/icons/app-googletv-ytb.png",
-      "apk": "https://ximaotv.github.io/app/tizen.apk",
-      "downloadKey": "tizen-apk"
-    },
-    {
       "name": "SmartTube",
       "version": "32.47",
       "versionCode": 2437,
@@ -60,28 +38,6 @@
       "icon": "https://ximaotv.github.io/app/icons/app-smarttube.png",
       "apk": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/smarttube.apk",
       "downloadKey": "smarttube-apk"
-    },
-    {
-      "name": "TikTok Lite",
-      "version": "",
-      "versionCode": 390903,
-      "description": "TikTok dành cho Android TV",
-      "category": "YouTube",
-      "packageName": "com.zhiliaoapp.musically.go",
-      "icon": "https://ximaotv.github.io/app/icons/app-tiktok-lite.png",
-      "apk": "https://ximaotv.github.io/app/tiktok.apk",
-      "downloadKey": "tiktok-apk"
-    },
-    {
-      "name": "VietMITV",
-      "version": "22",
-      "versionCode": 78,
-      "description": "Ứng dụng giọng nói đa năng cho TV",
-      "category": "Truyền Hình",
-      "packageName": "com.vxm.voiceassist.googletv",
-      "icon": "https://ximaotv.github.io/app/icons/app-vietmitv.png",
-      "apk": "https://ximaotv.github.io/app/vietmitv.apk",
-      "downloadKey": "vietmitv-apk"
     },
     {
       "name": "FPT Play",
@@ -139,17 +95,6 @@
       "downloadKey": "mytv-apk"
     },
     {
-      "name": "Sport Stream",
-      "version": "3.4",
-      "versionCode": 19,
-      "description": "Ứng dụng thể thao trên Android TV",
-      "category": "Truyền Hình",
-      "packageName": "com.vxm.sport",
-      "icon": "https://ximaotv.github.io/app/icons/app-sport-stream.png",
-      "apk": "https://ximaotv.github.io/app/sportstream.apk",
-      "downloadKey": "sportstream-apk"
-    },
-    {
       "name": "QuanTV",
       "version": "250921",
       "versionCode": 250921,
@@ -197,7 +142,7 @@
       "name": "TVPlus",
       "version": "1.1.5",
       "versionCode": 10,
-      "description": "Ứng dụng xem TV trên Android TV",
+      "description": "Ứng dụng truyền hình dành cho TV",
       "category": "Truyền Hình",
       "packageName": "com.apptv.tvplus",
       "icon": "https://btn.io.vn/apk/img/tvplus2.png",
@@ -269,61 +214,6 @@
       "icon": "https://ximaotv.github.io/app/icons/app-netflix.png",
       "apk": "https://ximaotv.github.io/app/netflix.apk",
       "downloadKey": "netflix-apk"
-    },
-    {
-      "name": "HBO Max",
-      "version": "7.3.0.69",
-      "versionCode": 1827030069,
-      "description": "Ứng dụng xem phim HBO Max",
-      "category": "Xem Phim",
-      "packageName": "com.wbd.hbomax",
-      "icon": "https://ximaotv.github.io/app/icons/app-hbomax.png",
-      "apk": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/hbomax.apk",
-      "downloadKey": "hbomax-apk"
-    },
-    {
-      "name": "MapVoice",
-      "version": "2.end",
-      "versionCode": 8,
-      "description": "Công cụ hỗ trợ điều khiển giọng nói",
-      "category": "Trợ Lý Giọng Nói",
-      "packageName": "com.linor.vn.mapVoice",
-      "icon": "https://ximaotv.github.io/app/icons/app-mapvoice.png",
-      "apk": "https://ximaotv.github.io/app/mapvoice.apk",
-      "downloadKey": "mapvoice-apk"
-    },
-    {
-      "name": "Super Voice",
-      "version": "2.end",
-      "versionCode": 10,
-      "description": "Công cụ hỗ trợ điều khiển giọng nói",
-      "category": "Trợ Lý Giọng Nói",
-      "packageName": "com.linor.vn.supperVoice",
-      "icon": "https://ximaotv.github.io/app/icons/app-supervoice.png",
-      "apk": "https://ximaotv.github.io/app/supervoice.apk",
-      "downloadKey": "supervoice-apk"
-    },
-    {
-      "name": "Giọng nói Kiki",
-      "version": "24.01.01",
-      "versionCode": 24010101,
-      "description": "Trợ lý giọng nói Kiki dành cho TV",
-      "category": "Trợ Lý Giọng Nói",
-      "packageName": "ai.zalo.kiki.tv",
-      "icon": "https://ximaotv.github.io/app/icons/app-kiki.png",
-      "apk": "https://ximaotv.github.io/app/kiki.apk",
-      "downloadKey": "kiki-apk"
-    },
-    {
-      "name": "Google Voice",
-      "version": "2.2.0.138699360",
-      "versionCode": 7200019,
-      "description": "Trợ lý giọng nói Google",
-      "category": "Trợ Lý Giọng Nói",
-      "packageName": "com.google.android.katniss",
-      "icon": "https://ximaotv.github.io/app/icons/app-voice.png",
-      "apk": "https://ximaotv.github.io/app/voice.apk",
-      "downloadKey": "voice-apk"
     },
     {
       "name": "Imou Camera",
