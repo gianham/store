@@ -7,14 +7,14 @@
   },
   "apps": [
     {
-      "name": "YouTubeTV cho Nội Địa",
+      "name": "YouTubeTV ",
       "version": "1.0.8",
       "versionCode": 108,
-      "description": "YouTube dành cho Xiaomi TV nội địa",
+      "description": "YouTube không QC",
       "category": "YouTube",
       "packageName": "com.google.android.youtube.tv",
       "icon": "https://ximaotv.github.io/app/https://ximaotv.github.io/app/icons/app-ytb.png",
-      "apk": "https://ximaotv.github.io/app/ytb.apk",
+      "apk": "https://dvtshophcm.com/appstore/YouTubeFinal_KhuyenDung.apk",
       "downloadKey": "ytb-apk"
     },
     {
