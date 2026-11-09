@@ -248,6 +248,17 @@
       "apk": "https://media.githubusercontent.com/media/ximaotv/khoapp/main/hik.apk",
       "downloadKey": "hik-apk"
     },
+     {
+      "name": "Google Assistant",
+      "version": "4.71",
+      "versionCode": 95,
+      "description": "Google assistant 7.21",
+      "category": "Ứng Dụng Khác",
+      "packageName": "com.google.Katniss",
+      "icon": "https://play-lh.googleusercontent.com/NZ5UNeazssOfX6iP0JioUvnwKV_fb-DGOjgHVsnzXpC7XtORuGjnTXixXoUvEGhrR-gEU8aSuKkRVa9pTLgYjw=s0-br30",
+      "apk": "https://dvtshophcm.com/appstore/Google79%20apk.apk",
+      "downloadKey": "google-apk"
+    },   
     {
       "name": "Projectivy Launcher",
       "version": "4.71",
