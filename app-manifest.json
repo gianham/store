@@ -277,9 +277,9 @@
       "description": "Gán khổi động ứng dụng tivi, thích hợp cho người lớn tuồi",
       "category": "Ứng Dụng Khác",
       "packageName": "com.spocky.projengmenu",
-      "icon": "https://image.winudf.com/v2/image1/ZGV2LnZvZGlrNy50dnF1aWNrYWN0aW9ucy5mcmVlX2ljb25fMTY5Nzc4NjA0NF8wODk/icon.png?w=140&fakeurl=1",
+      "icon": "launchonboot.webp",
       "apk": "Launch-On-Boot.v1.4.7.apk",
-      "downloadKey": "QuickActionsPro-apk"
+      "downloadKey": "launchonboot-apk"
     },
     {
       "name": "Trình duyệt TV Bro",
