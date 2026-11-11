@@ -281,6 +281,17 @@
       "apk": "Launch-On-Boot.v1.4.7.apk",
       "downloadKey": "launchonboot-apk"
     },
+	{
+      "name": "Downloader",
+      "version": "4.71",
+      "versionCode": 95,
+      "description": "Tải app bằng mã code",
+      "category": "Ứng Dụng Khác",
+      "packageName": "com.spocky.projengmenu",
+      "icon": "Downloader.webp",
+      "apk": "Downloader 2.0.3.apk",
+      "downloadKey": "Downloader-apk"
+    },
     {
       "name": "Trình duyệt TV Bro",
       "version": "2.1.6",
