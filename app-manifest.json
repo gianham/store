@@ -41,13 +41,13 @@
     },
     {
       "name": "TVPlus",
-      "version": "1.1.5",
+      "version": "1.1.9",
       "versionCode": 10,
-      "description": "Ứng dụng truyền hình dành cho TV",
+      "description": "Ứng dụng truyền hình dành cho TV, hỗ trợ gọi kênh trực tiếp từ Google Assistant",
       "category": "Truyền Hình",
       "packageName": "com.apptv.tvplus",
       "icon": "tvplus2.png",
-      "apk": "TVPlus-1.1.5-redirect.apk",
+      "apk": "TVPlus-1.1.9-touch-fix.apk",
       "downloadKey": "TVPlus-apk"
     },
     {
@@ -203,6 +203,28 @@
       "icon": "https://ximaotv.github.io/app/icons/app-rapphim.png",
       "apk": "https://ximaotv.github.io/app/rapphim.apk",
       "downloadKey": "rapphim-apk"
+    },
+	{
+      "name": "streamio",
+      "version": "1.1.0",
+      "versionCode": 4,
+      "description": "Ứng dụng xem phim trên TV",
+      "category": "Xem Phim",
+      "packageName": "com.rapphim.tv",
+      "icon": "streamio.png",
+      "apk": "https://dl.strem.io/android/v1.12.1-androidTV/com.stremio.one-1.12.1-51048577-armeabi-v7a.apk",
+      "downloadKey": "streamio-apk"
+    },
+	{
+      "name": "nivio",
+      "version": "1.1.0",
+      "versionCode": 4,
+      "description": "Ứng dụng xem phim trên TV",
+      "category": "Xem Phim",
+      "packageName": "com.rapphim.tv",
+      "icon": "https://nuvio.tv/assets/nuvio-app-logo-wordmark.webp",
+      "apk": "nivio.apk"
+      "downloadKey": "nivio-apk"
     },
     {
       "name": "Imou Camera",
