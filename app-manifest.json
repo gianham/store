@@ -210,7 +210,7 @@
       "versionCode": 4,
       "description": "Ứng dụng xem phim trên TV",
       "category": "Xem Phim",
-      "packageName": "com.rapphim.tv",
+      "packageName": "com.raopphim.tv",
       "icon": "streamio.png",
       "apk": "https://dl.strem.io/android/v1.12.1-androidTV/com.stremio.one-1.12.1-51048577-armeabi-v7a.apk",
       "downloadKey": "streamio-apk"
@@ -218,10 +218,10 @@
 	{
       "name": "nivio",
       "version": "1.1.0",
-      "versionCode": 4,
+      "versionCode": 47,
       "description": "Ứng dụng xem phim trên TV",
       "category": "Xem Phim",
-      "packageName": "com.rapphim.tv",
+      "packageName": "com.hl.tv",
       "icon": "https://nuvio.tv/assets/nuvio-app-logo-wordmark.webp",
       "apk": "nivio.apk"
       "downloadKey": "nivio-apk"
