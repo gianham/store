@@ -135,7 +135,7 @@
       "category": "Truyền Hình",
       "packageName": "com.linor.vn.getout",
       "icon": "https://ximaotv.github.io/app/icons/app-get-out.png",
-      "apk": "https://ximaotv.github.io/app/getout.apk",
+      "apk": "https://github.com/linor5757/getout/releases/download/v1/getout2.apk",
       "downloadKey": "getout-apk"
     },
     {
