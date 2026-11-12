@@ -216,7 +216,7 @@
       "downloadKey": "streamio-apk"
     },
 	{
-      "name": "nivio",
+      "name": "Nuvio",
       "version": "1.1.0",
       "versionCode": 47,
       "description": "Ứng dụng xem phim trên TV",
@@ -224,7 +224,7 @@
       "packageName": "com.hl.tv",
       "icon": "https://nuvio.tv/assets/nuvio-app-logo-wordmark.webp",
       "apk": "nivio.apk",
-      "downloadKey": "nivio-apk"
+      "downloadKey": "nuvio-apk"
     },
     {
       "name": "Imou Camera",
