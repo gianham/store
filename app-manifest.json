@@ -17,6 +17,17 @@
       "apk": "https://dvtshophcm.com/appstore/YouTubeFinal_KhuyenDung.apk",
       "downloadKey": "ytb-apk"
     },
+	{
+      "name": "YouTubeTV ",
+      "version": "2.0.2",
+      "versionCode": 109,
+      "description": "YouTube cobalt cài cho AndroiTV xóa được youtube gốc",
+      "category": "YouTube",
+      "packageName": "com.google.android.youtube.tv",
+      "icon": "https://btn.io.vn/apk/img/app-googletv-ytb.png",
+      "apk": "Youtube_cobalt_2.0.2.apk",
+      "downloadKey": "ytb1-apk"
+    },
     {
       "name": "TizenTube",
       "version": "V2.0.3",
