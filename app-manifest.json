@@ -52,13 +52,13 @@
     },
     {
       "name": "TVPlus",
-      "version": "1.1.9",
+      "version": "1.2.3",
       "versionCode": 10,
       "description": "Ứng dụng truyền hình dành cho TV, hỗ trợ gọi kênh trực tiếp từ Google Assistant",
       "category": "Truyền Hình",
       "packageName": "com.apptv.tvplus",
       "icon": "tvplus2.png",
-      "apk": "TVPlus-1.1.9-touch-fix.apk",
+      "apk": "TVPlus-1.2.3.apk",
       "downloadKey": "TVPlus-apk"
     },
     {
