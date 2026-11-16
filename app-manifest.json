@@ -201,7 +201,7 @@
       "category": "Xem Phim",
       "packageName": "com.phim4k.phim",
       "icon": "https://film4k.net/logo-64.png",
-      "apk": "film4k.apk",
+      "apk": "https://film4k.net/api/apps/apk/tv-armeabi-v7a-release.apk",
       "downloadKey": "4k-apk"
     },
     {
