@@ -227,13 +227,13 @@
       "downloadKey": "rapphim-apk"
     },
 	{
-      "name": "streamio",
+      "name": "Streamio",
       "version": "1.1.0",
       "versionCode": 4,
       "description": "Ứng dụng xem phim trên TV",
       "category": "Xem Phim",
       "packageName": "com.raopphim.tv",
-      "icon": "streamio.png",
+      "icon": "https://www.stremio.com/assets/stremio-logo-small-DmKKoSIJ.png",
       "apk": "https://dl.strem.io/android/v1.12.1-androidTV/com.stremio.one-1.12.1-51048577-armeabi-v7a.apk",
       "downloadKey": "streamio-apk"
     },
@@ -326,13 +326,24 @@
       "downloadKey": "launchonboot-apk"
     },
 	{
+      "name": "KeyMapper",
+      "version": "4.7.1",
+      "versionCode": 95,
+      "description": "Tạo macro tùy chỉnh trên remote, tạo các nút trên màn hình trong bất kỳ ứng dụng nào, và mở khóa chức năng mới từ các nút âm lượng của bạn!",
+      "category": "Ứng Dụng Khác",
+      "packageName": "com.spocky.projengmendu",
+      "icon": "https://github.com/keymapperorg/KeyMapper/blob/master/app/src/main/ic_launcher-web.png,
+      "apk": "https://github.com/keymapperorg/KeyMapper/releases/download/v4.7.1/keymapper-4.7.1-foss.apk",
+      "downloadKey": "KeyMapper-apk"
+    },
+	{
       "name": "Downloader",
       "version": "4.71",
       "versionCode": 95,
       "description": "Tải app bằng mã code",
       "category": "Ứng Dụng Khác",
       "packageName": "com.spocky.projengmenu",
-      "icon": "Downloader.webp",
+      "icon": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/08/89/66bca529713ab_com.esaba.downloader.png",
       "apk": "Downloader 2.0.3.apk",
       "downloadKey": "Downloader-apk"
     },
