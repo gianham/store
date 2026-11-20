@@ -328,11 +328,11 @@
 	{
       "name": "KeyMapper",
       "version": "4.7.1",
-      "versionCode": 95,
+      "versionCode": 96,
       "description": "Tạo macro tùy chỉnh trên remote, tạo các nút trên màn hình trong bất kỳ ứng dụng nào, và mở khóa chức năng mới từ các nút âm lượng của bạn!",
       "category": "Ứng Dụng Khác",
       "packageName": "com.spocky.projengmendu",
-      "icon": "https://github.com/keymapperorg/KeyMapper/blob/master/app/src/main/ic_launcher-web.png,
+      "icon": "https://github.com/keymapperorg/KeyMapper/blob/master/app/src/main/ic_launcher-web.png",
       "apk": "https://github.com/keymapperorg/KeyMapper/releases/download/v4.7.1/keymapper-4.7.1-foss.apk",
       "downloadKey": "KeyMapper-apk"
     },
